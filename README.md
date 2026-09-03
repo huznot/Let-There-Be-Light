@@ -10,9 +10,9 @@ A short first-person story game made in Unity. It runs across three acts and a f
 
 ## Download and play
 
-1. Download the Windows build from [Releases](https://github.com/huznot/Let-There-Be-Light/releases/latest)
+1. Download `LetThereBeLight-Windows.zip` from [Releases](https://github.com/huznot/Let-There-Be-Light/releases/latest)
 2. Unzip it
-3. Run `fp game test.exe`
+3. Open the `Let There Be Light` folder and run `fp game test.exe`
 
 ## Run from source
 
